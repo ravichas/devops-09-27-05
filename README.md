@@ -1,6 +1,14 @@
 # devops-09-27-05
 This is a DevOps Best Practices Repo
 
+To get started do this: 
+
+`virtualenv ~/.venv`
+
+Then do the following: 
+
+`source ~/.venv/bin/activate`
+
 ## Createa a scaffold
 
 * `requirements.text`: Packages
@@ -11,3 +19,5 @@ This is a DevOps Best Practices Repo
 Also include build server YAML files: 
 
 * Github actions Config files
+
+
